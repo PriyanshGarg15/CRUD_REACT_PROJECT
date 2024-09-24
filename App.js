@@ -9,6 +9,7 @@ const App = () => {
   const [right, setRight] = useState(-450);
 
   // Store the students in the state
+  
   const [students, setStudents] = useState([]);
 
   // Store the form data in the state
