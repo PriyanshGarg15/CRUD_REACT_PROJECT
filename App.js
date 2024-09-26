@@ -19,6 +19,7 @@ const App = () => {
     
     class: '',
     roll: '',
+    
     subject: '',
     dob: '',
   });
