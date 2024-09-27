@@ -15,6 +15,7 @@ const App = () => {
   // Store the form data in the state
   const [form, setForm] = useState({
     
+    
     fullname: '',
     
     class: '',
