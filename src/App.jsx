@@ -7,6 +7,7 @@ const App = () => {
   const[editIndex,seteditIndex]=useState(null)
 
   const [right, setRight] = useState(-450);
+  
 
   // Store the students in the state
   const [students, setStudents] = useState([]);
